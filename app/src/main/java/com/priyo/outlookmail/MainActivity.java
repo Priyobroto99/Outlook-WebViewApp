@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
                 webView.setVisibility(View.VISIBLE);
             }
         });
-        webView.loadUrl("https://outlook.office.com/");
+        webView.loadUrl("https://onecognizant.cognizant.com/");
     }
 
     @Override
